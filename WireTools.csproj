@@ -75,6 +75,7 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
+    <None Include="README.md" />
     <None Include="Resources\Knife2_40x40.png" />
   </ItemGroup>
   <ItemGroup>
